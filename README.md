@@ -1,4 +1,26 @@
-*Instalacion*
+<p align="center">
+<img src="https://images.app.goo.gl/todTJaEgUS1y1bqr5" alt="OFCODE" width="128" height="128"/>
+</p>
+<p align="center">
+<a href="#"><img title="OFCODE" src="https://img.shields.io/badge/OFCODE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/jockertermux"><img title="Author" src="https://img.shields.io/badge/Author-Jocker Termux-red.svg?style=for-the-badge&logo=github"></a>
+  <p align="center">
+<a href="https://github.com/jockertermux/followers"><img title="Followers" src="https://img.shields.io/github/followers/jockertermux?color=blue&style=flat-square"></a>
+<a href="https://github.com/jockertermux/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/jockertermux/ofcode?color=red&style=flat-square"></a>
+<a href="https://github.com/jockertermux/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/jockertermux/ofcode?color=red&style=flat-square"></a>
+<a href="https://github.com/jockertermux/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/jockertermux/ofcode?label=Watchers&color=blue&style=flat-square"></a>
+</p>
+</p>
+<p align="center">
+  <a href="https://github.com/jockertermux/ofcode#instalacion">Instalacion</a> •
+  <a href="https://github.com/jockertermux/ofcode#uso">Uso</a> 
+</p>
+
+---
+
+# *Instalacion*
 
 pkg install git
 
@@ -8,7 +30,7 @@ cd logerv0.2
 
 bash install.sh
 
-*Uso*
+# *Uso*
 
 Al iniciar install.sh te dara un menu con 4 opciones
 
