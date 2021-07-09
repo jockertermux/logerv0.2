@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://images.app.goo.gl/todTJaEgUS1y1bqr5" alt="OFCODE" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/jockertermux/logerv0.2/main/media/Itsuki.jpg" alt="OFCODE" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="OFCODE" src="https://img.shields.io/badge/OFCODE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
